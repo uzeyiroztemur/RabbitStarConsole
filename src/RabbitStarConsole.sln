@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitStarConsole", "RabbitStarConsole.csproj", "{534F26A2-D248-47D0-97DC-6BCCBD78BF4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{534F26A2-D248-47D0-97DC-6BCCBD78BF4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{534F26A2-D248-47D0-97DC-6BCCBD78BF4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{534F26A2-D248-47D0-97DC-6BCCBD78BF4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{534F26A2-D248-47D0-97DC-6BCCBD78BF4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E62CDB8-9D70-46C7-ADB6-9CB487978393}
+	EndGlobalSection
+EndGlobal
